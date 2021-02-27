@@ -102,6 +102,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_8b37563fcad34d91958184a38b0fe467: 5.98
+    - Vector1_b0370118a73f4d37965760e7f03212bd: 2.09
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
